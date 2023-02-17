@@ -1,0 +1,25 @@
+
+		Prashant's Inventory
+	 Phone Num. 9122706809 , DBPUR - 561203
+------------------------------------------------
+ Customer Name :prashant
+ Phone No.  : 9876543210
+ Bill No. 22183137			 Date: 22-01-2023
+------------------------------------------------
+ Product Name 			 QTY 	   Price
+------------------------------------------------
+    
+ Bulb			  1	   Rs. 50.0
+ Fan			  1	   Rs. 2500.0
+ Oppo Find X3 Pro			  1	   Rs. 20000.0
+ Samsung			  1	   Rs. 25000.0
+------------------------------------------------
+ Bill Amount				   Rs.47550.0
+ Dicount				   Rs.2377.5
+ ------------------------------------------------
+ Net Pay				   Rs.45172.5
+ 
+ 	THANKS FOR SHOPPING , HAVE A GREAT DAY 
+ 	AND VISIT AGAIN !!
+ 	WE ARE ALWAYS TO HELP YOU !!!
+        

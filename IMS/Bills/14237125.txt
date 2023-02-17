@@ -1,0 +1,22 @@
+
+		Prashant's Inventory
+	 Phone Num. 9122706809 , DBPUR - 561203
+------------------------------------------------
+ Customer Name :Prashant
+ Phone No.  : 897431242
+ Bill No. 14237125			 Date: 14-09-2022
+------------------------------------------------
+ Product Name 			 QTY 	   Price
+------------------------------------------------
+    
+ Bulb			  10	   Rs. 500.0
+------------------------------------------------
+ Bill Amount				   Rs.500.0
+ Dicount				   Rs.25.0
+ ------------------------------------------------
+ Net Pay				   Rs.475.0
+ 
+ 	THANKS FOR SHOPPING , HAVE A GREAT DAY 
+ 	AND VISIT AGAIN !!
+ 	WE ARE ALWAYS TO HELP YOU !!!
+        

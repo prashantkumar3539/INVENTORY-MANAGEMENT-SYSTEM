@@ -1,0 +1,23 @@
+
+		Prashant's Inventory
+	 Phone Num. 9122706809 , DBPUR - 561203
+------------------------------------------------
+ Customer Name :Shoaib
+ Phone No.  : 987765443221
+ Bill No. 23303580			 Date: 23-11-2022
+------------------------------------------------
+ Product Name 			 QTY 	   Price
+------------------------------------------------
+    
+ Bulb			  1	   Rs. 50.0
+ Samsung			  1	   Rs. 25000.0
+------------------------------------------------
+ Bill Amount				   Rs.25050.0
+ Dicount				   Rs.1252.5
+ ------------------------------------------------
+ Net Pay				   Rs.23797.5
+ 
+ 	THANKS FOR SHOPPING , HAVE A GREAT DAY 
+ 	AND VISIT AGAIN !!
+ 	WE ARE ALWAYS TO HELP YOU !!!
+        
